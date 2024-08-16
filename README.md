@@ -1,7 +1,7 @@
 # musicplayer
 # Link :- https://musicplayer-web-bypalak.netlify.app/
 
-![image alt](https://github.com/mispalak9/Portfolio-/blob/5540a2bd74e8e2993d0599898372771cb08274db/3.jpeg)
+![image alt](https://github.com/mispalak9/musicplayer/blob/d9dd40904d01ee8ceeb33ecd666ec59e625a7a79/1.jpeg)
 
 # Description
 -> My Music Web App is a web application that allows users to discover, listen to, and manage their favorite music. It provides a seamless and immersive music streaming experience, along with various features to enhance user interaction and customization.
